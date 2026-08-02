@@ -1,0 +1,29 @@
+{
+    "旁白": {
+        "prompt_wav": "asset/zero_shot_prompt.wav",
+        "prompt_text": "希望你以后能够做的比我还好呦。"
+    },
+    "小狐狸": {
+        "prompt_wav": "dubbing_example/fox_prompt.wav",
+        "prompt_text": "I want a rainbow tail too! He painted his tail in many colors."
+    },
+    "小猪": {
+        "prompt_wav": "dubbing_example/pig_prompt.wav",
+        "prompt_text": "Piglet shook his head. No, no, baths are no fun. So he ran outside to play."
+    },
+    "aiyj": {
+        "prompt_wav": "dubbing_example/aiyj_prompt.wav",
+        "prompt_text": "世界不会为胆怯者让路，却会给勇敢的人，重新选择的机会。怕输，才会紧张，但是想赢不会。"
+    },
+    "老和尚": {
+        "prompt_wav": "asset/zero_shot_prompt.wav",
+        "prompt_text": "希望你以后能够做的比我还好呦。",
+        "instruct": "请用低沉苍老、平缓的男性声音说这句话。",
+        "speed": 0.9
+    },
+    "小和尚": {
+        "prompt_wav": "asset/zero_shot_prompt.wav",
+        "prompt_text": "希望你以后能够做的比我还好呦。",
+        "instruct": "请用活泼可爱的小孩子语气说这句话。"
+    }
+}
